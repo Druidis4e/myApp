@@ -1,7 +1,7 @@
-github.com/Druidis4e/myLib v1.0.2 h1:QtuekVKLm+VgXVamjFOIFk8YQV2RIdveURmjgI7tDDQ=
-github.com/Druidis4e/myLib v1.0.2/go.mod h1:pvA3oPVkgGukLraXDunL3T5GlWmOlaHhWtouQYqcYX0=
-github.com/Druidis4e/strUtils v1.0.1 h1:Fdb0gMnKXWMbeDykuw4IEzd5h3CKEKyr4TF69TKt3+o=
-github.com/Druidis4e/strUtils v1.0.1/go.mod h1:Ovzwlf1OqIlNOLBuGPaESm6m5+i4TtRohdJ5QHwbxFA=
+github.com/Druidis4e/strUtils v1.0.5 h1:MvVN2x/x2aCaqUJTcxUVXaSKDWSR84fX1rmFOD+c6B8=
+github.com/Druidis4e/strUtils v1.0.5/go.mod h1:p931AgvDSIL7B9K8/OzHxKZZzbG/OCNf8YLKeR/5kno=
+github.com/IamDruid84/mainRepo v1.0.1 h1:9V4hBlS5Q/PeHkVEE6TiTg9/nuDzRfNwcvfpbWh9m7I=
+github.com/IamDruid84/mainRepo v1.0.1/go.mod h1:XO646Q7qrQ72OSINiXHSu7R8GjP/05V+tlbJalc0N9g=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
